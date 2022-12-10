@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marek A
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript & React
 
 <!---
 Marek-A/Marek-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
