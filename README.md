@@ -1,6 +1,6 @@
 - 👋 Welcome to my GitHub profile! 
-- My name is Marek A and I am passionate about Front-end development.
-- 👨‍💻 As a self-taught developer, I am constantly learning and improving my skills in HTML, CSS, JavaScript and React. 
+- My name is Marek and I am passionate about Front-end development.
+- 👨‍💻 As a self-taught developer, I am constantly learning and improving my skills in HTML, CSS, JavaScript and React etc. 
 - I am excited to share my projects and collaborate with others in the tech community. Thank you for stopping by! 🔥
 
 
