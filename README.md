@@ -18,5 +18,8 @@ Ny name is Marek, and I am a passionate Frontend Developer with expertise in Rea
 - Email: [your.email@example.com](mailto:contact@angelstok.ee)
 - LinkedIn: [linkedin.com/in/your-profile]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/marek-angelstok/))
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
+
+
 ### 🌟 Thank you for stopping by!
 
