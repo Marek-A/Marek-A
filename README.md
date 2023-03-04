@@ -24,3 +24,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> <im
 
 ### 🌟 Thank you for stopping by!
 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka)
+
