@@ -25,5 +25,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> <im
 ### 🌟 Thank you for stopping by!
 
 
-<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+<img src="https://profile-counter.glitch.me/{marek-a}/count.svg" alt="marek-a" :: Visitor's Count" />
 
