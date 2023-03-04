@@ -1,6 +1,6 @@
 ### 👋 Greetings fellow coder, welcome to my GitHub profile!
 
-Ny name is Marek, and I am a passionate Frontend Developer with expertise in React. As a self-taught developer, I am continuously learning and improving my skills in web development. I have a solid foundation in HTML, CSS, and JavaScript, and I have honed my skills in React by building several projects, which you can find on my GitHub profile.
+My name is Marek, and I am a passionate Frontend Developer with expertise in React. As a self-taught developer, I am continuously learning and improving my skills in web development. I have a solid foundation in HTML, CSS, and JavaScript, and I have honed my skills in React by building several projects, which you can find on my GitHub profile.
 
 👨‍💻 I am always looking for opportunities to collaborate with others in the tech community, so feel free to reach out to me!
 
