@@ -18,7 +18,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> <im
 ### 📫 Contact
 
 - Email: [contact@angelstok.ee](mailto:contact@angelstok.ee)
-- LinkedIn: [linkedin.com/in/marek-angelstok]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/marek-angelstok/))
+- LinkedIn: [linkedin.com/in/marek-angelstok/](https://www.linkedin.com/in/marek-angelstok/)
 
 
 
