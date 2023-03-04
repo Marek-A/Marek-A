@@ -6,19 +6,14 @@ Ny name is Marek, and I am a passionate Frontend Developer with expertise in Rea
 
 ### 🛠️ Skills
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Firebase
-- Git
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+
 
 ### 📫 Contact
 
 - Email: [your.email@example.com](mailto:contact@angelstok.ee)
 - LinkedIn: [linkedin.com/in/your-profile]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/marek-angelstok/))
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
 
 
 ### 🌟 Thank you for stopping by!
